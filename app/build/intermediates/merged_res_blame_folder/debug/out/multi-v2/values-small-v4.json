@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.voxcpm.tts.app-mergeDebugResources-26:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\21093\\.gradle\\caches\\transforms-3\\6226c7725f4a8a842f1a46c4202c6c56\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

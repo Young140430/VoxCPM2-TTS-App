@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoxCPM2 语音合成</string>
+
+    <!-- Main screen -->
+    <string name="text_input_hint">输入要合成的文字…</string>
+    <string name="btn_generate">生成语音</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_save">保存</string>
+    <string name="ref_audio_section">参考音频（音色克隆）</string>
+    <string name="btn_upload_audio">上传音频</string>
+    <string name="btn_record_audio">录制音频</string>
+    <string name="btn_clear_audio">清除</string>
+    <string name="recording">正在录音…</string>
+    <string name="stop_recording">停止录音</string>
+    <string name="no_ref_audio">未选择参考音频</string>
+    <string name="status_idle">就绪</string>
+    <string name="status_generating">正在生成语音…</string>
+    <string name="status_playing">正在播放…</string>
+    <string name="status_error">生成失败</string>
+    <string name="status_success">生成完成</string>
+    <string name="settings">设置</string>
+    <string name="set_api_url_first">请先在设置中配置 API 地址</string>
+    <string name="enter_text_first">请先输入要合成的文字</string>
+    <string name="audio_saved">音频已保存</string>
+    <string name="permission_denied">需要麦克风权限才能录音</string>
+
+    <!-- Settings screen -->
+    <string name="api_base_url">API 地址</string>
+    <string name="api_base_url_hint">http://192.168.1.100:8000</string>
+    <string name="api_key">API Key</string>
+    <string name="api_key_hint">sk-empty（如不需要可留空）</string>
+    <string name="model_name">模型名称</string>
+    <string name="model_name_hint">voxcpm2</string>
+    <string name="output_format">输出格式</string>
+    <string name="save_settings">保存</string>
+    <string name="clear_settings">清除</string>
+    <string name="help_title">使用说明</string>
+    <string name="help_message">1. 在「API 地址」中填入 vllm_omni 服务地址\n2. 如需鉴权，填写 API Key\n3. 模型名称需与服务端一致\n4. 支持上传或录制参考音频进行音色克隆\n5. 允许 HTTP 明文连接</string>
+    <string name="saved">已保存</string>
+    <string name="cleared">已清除</string>
+</resources>

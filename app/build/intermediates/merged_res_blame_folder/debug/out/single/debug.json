@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_status_dot_playing.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\status_dot_playing.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_mic.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_status_dot_error.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\status_dot_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_status_dot_success.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\status_dot_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_status_dot_generating.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\status_dot_generating.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_status_dot_idle.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\status_dot_idle.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_bg_ref_section.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\bg_ref_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_mic_recording.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_mic_recording.xml"
+    },
+    {
+        "merged": "com.voxcpm.tts.app-merged_res-28:/drawable_ic_visibility.xml.flat",
+        "source": "com.voxcpm.tts.app-main-30:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.voxcpm.tts.app-merged_res-28:/layout_activity_settings.xml.flat",
+        "source": "com.voxcpm.tts.app-main-30:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-merged_res-28:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\21093\\.gradle\\daemon\\8.5\\com.voxcpm.tts.app-main-30:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.voxcpm.tts.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.voxcpm.tts.app-main-30:/layout/activity_main.xml"
+    }
+]
