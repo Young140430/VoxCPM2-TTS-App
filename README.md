@@ -51,10 +51,7 @@
 如需自行部署 vllm_omni 服务器：
 
 ```bash
-python -m vllm_omni.entrypoints.openai.api_server \
-    --model openbmb/VoxCPM2 \
-    --stage-configs-path vllm_omni/model_executor/stage_configs/voxcpm2.yaml \
-    --host 0.0.0.0 --port 8000
+vllm serve openbmb/VoxCPM2 --omni --host 0.0.0.0 --port 8000
 ```
 
 使用 curl 测试接口：
@@ -62,7 +59,7 @@ python -m vllm_omni.entrypoints.openai.api_server \
 ```bash
 curl -X POST http://localhost:8000/v1/audio/speech \
   -H "Content-Type: application/json" \
-  -d '{"model": "voxcpm2", "input": "Hello, this is VoxCPM2.", "voice": "default"}' \
+  -d '{"model": "voxcpm2", "input": "Hello, this is VoxCPM2.", "voice": "default", "stream": true}' \
   --output output.wav
 ```
 
